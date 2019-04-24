@@ -2,6 +2,21 @@
 Programa simulador 2D de un Sistema de Control de Crucero Adaptivo (ACC) para Autos, programado en Visual Basic con 4 escenarios posibles.
 ## Requerimientos
 - Descargar [Visual Studio Community IDE 2019](https://visualstudio.microsoft.com/downloads/)
+## Problema
+![Demo](https://raw.githubusercontent.com/Yizack/sistemaACC-2D/master/problema.jpg)
+Un vehículo (coche de ego) está equipado con control de crucero adaptable (ACC) cuenta
+con un sensor (radar), que mide la distancia al vehículo precedente en el mismo carril
+(coche principal), Drel, así como la velocidad relativa del vehículo principal, Vrel.
+- El sistema ACC funciona en los 2 modos siguientes:
+  - Control de velocidad: El coche de ego viaja a una velocidad de-conjunto.
+  - Control de espacio: El coche de ego mantiene una distancia segura del coche
+principal.
+- El sistema ACC decide qué modo utilizar basados en mediciones de radar en tiempo real:
+- Si el coche principal está demasiado cerca, el sistema ACC cambia de control de
+velocidad a control de espacio.
+- Si el coche principal está muy lejos, el sistema ACC cambia de control de espacio a
+control de velocidad.
+##
 ## Escenarios
 | Escenario | Descripción
 |---------|-------------|
