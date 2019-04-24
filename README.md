@@ -3,7 +3,7 @@ Programa simulador 2D de un Sistema de Control de Crucero Adaptivo (ACC) para Au
 ## Requerimientos
 - Descargar [Visual Studio Community IDE 2019](https://visualstudio.microsoft.com/downloads/)
 ## Problema
-![Demo](https://raw.githubusercontent.com/Yizack/sistemaACC-2D/master/problema.jpg)
+![Problema](https://raw.githubusercontent.com/Yizack/sistemaACC-2D/master/problema.jpg) \
 Un vehículo (coche de ego) está equipado con control de crucero adaptable (ACC) cuenta
 con un sensor (radar), que mide la distancia al vehículo precedente en el mismo carril
 (coche principal), Drel, así como la velocidad relativa del vehículo principal, Vrel.
