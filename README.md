@@ -12,9 +12,9 @@ con un sensor (radar), que mide la distancia al vehículo precedente en el mismo
   - Control de espacio: El coche de ego mantiene una distancia segura del coche
 principal.
 - El sistema ACC decide qué modo utilizar basados en mediciones de radar en tiempo real:
-- Si el coche principal está demasiado cerca, el sistema ACC cambia de control de
+  - Si el coche principal está demasiado cerca, el sistema ACC cambia de control de
 velocidad a control de espacio.
-- Si el coche principal está muy lejos, el sistema ACC cambia de control de espacio a
+  - Si el coche principal está muy lejos, el sistema ACC cambia de control de espacio a
 control de velocidad.
 ##
 ## Escenarios
