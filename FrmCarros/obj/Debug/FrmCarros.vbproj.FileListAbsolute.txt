@@ -1,0 +1,32 @@
+C:\Users\Gian\Documents\Visual Studio 2015\Projects\Juegos\FrmCarros\bin\Debug\FrmCarros.exe
+C:\Users\Gian\Documents\Visual Studio 2015\Projects\Juegos\FrmCarros\bin\Debug\FrmCarros.pdb
+C:\Users\Gian\Documents\Visual Studio 2015\Projects\Juegos\FrmCarros\bin\Debug\FrmCarros.xml
+C:\Users\Gian\Documents\Visual Studio 2015\Projects\Juegos\FrmCarros\obj\Debug\FrmCarros.vbprojResolveAssemblyReference.cache
+C:\Users\Gian\Documents\Visual Studio 2015\Projects\Juegos\FrmCarros\obj\Debug\FrmCarros.Resources.resources
+C:\Users\Gian\Documents\Visual Studio 2015\Projects\Juegos\FrmCarros\obj\Debug\FrmCarros.vbproj.GenerateResource.Cache
+C:\Users\Gian\Documents\Visual Studio 2015\Projects\Juegos\FrmCarros\obj\Debug\FrmCarros.exe
+C:\Users\Gian\Documents\Visual Studio 2015\Projects\Juegos\FrmCarros\obj\Debug\FrmCarros.xml
+C:\Users\Gian\Documents\Visual Studio 2015\Projects\Juegos\FrmCarros\obj\Debug\FrmCarros.pdb
+C:\Users\Gian\documents\visual studio 2015\Projects\Juegos\FrmCarros\obj\Debug\FrmCarros.FrmCarros.resources
+C:\Users\eliez\Documents\GitHub\JuegosCarros\FrmCarros\bin\Debug\FrmCarros.exe
+C:\Users\eliez\Documents\GitHub\JuegosCarros\FrmCarros\bin\Debug\FrmCarros.pdb
+C:\Users\eliez\Documents\GitHub\JuegosCarros\FrmCarros\bin\Debug\FrmCarros.xml
+C:\Users\eliez\Documents\GitHub\JuegosCarros\FrmCarros\obj\Debug\FrmCarros.vbprojAssemblyReference.cache
+C:\Users\eliez\Documents\GitHub\JuegosCarros\FrmCarros\obj\Debug\FrmCarros.Resources.resources
+C:\Users\eliez\Documents\GitHub\JuegosCarros\FrmCarros\obj\Debug\FrmCarros.vbproj.GenerateResource.cache
+C:\Users\eliez\Documents\GitHub\JuegosCarros\FrmCarros\obj\Debug\FrmCarros.vbproj.CoreCompileInputs.cache
+C:\Users\eliez\Documents\GitHub\JuegosCarros\FrmCarros\obj\Debug\FrmCarros.exe
+C:\Users\eliez\Documents\GitHub\JuegosCarros\FrmCarros\obj\Debug\FrmCarros.xml
+C:\Users\eliez\Documents\GitHub\JuegosCarros\FrmCarros\obj\Debug\FrmCarros.pdb
+C:\Users\eliez\Documents\GitHub\JuegosCarros\FrmCarros\obj\Debug\FrmCarros.FrmACC.resources
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmCarros.vbprojAssemblyReference.cache
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmMain.FrmACC.resources
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmMain.Resources.resources
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmCarros.vbproj.GenerateResource.cache
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmCarros.vbproj.CoreCompileInputs.cache
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\bin\Debug\FrmMain.exe
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\bin\Debug\FrmMain.pdb
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\bin\Debug\FrmMain.xml
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmMain.exe
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmMain.xml
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmMain.pdb

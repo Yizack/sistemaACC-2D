@@ -1,0 +1,11 @@
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmMain.vbprojAssemblyReference.cache
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmMain.FrmMain.resources
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmMain.Resources.resources
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmMain.vbproj.GenerateResource.cache
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmMain.vbproj.CoreCompileInputs.cache
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmMain.exe
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmMain.xml
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\obj\Debug\FrmMain.pdb
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\bin\Debug\FrmMain.exe
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\bin\Debug\FrmMain.pdb
+C:\Users\eliez\Documents\GitHub\sistemaACC\FrmCarros\bin\Debug\FrmMain.xml
